@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^0.1102.5",
+    "@angular/cli": "^11.2.8"
+  },
+  "dependencies": {
+    "@types/mocha": "^8.2.1",
+    "bootstrap": "^3.4.1",
+    "ng2-completer": "^9.0.1",
+    "ngx-pagination": "^5.0.0"
+  }
+}
